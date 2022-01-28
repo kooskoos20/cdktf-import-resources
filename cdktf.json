@@ -2,7 +2,7 @@
   "language": "typescript",
   "app": "npx ts-node main.ts",
   "projectId": "82bb2731-b59d-4e04-8878-f9f33b89792a",
-  "terraformProviders": [],
+  "terraformProviders": ["azuread@~> 2.12"],
   "terraformModules": [],
   "context": {
     "excludeStackIdFromLogicalIds": "true",
